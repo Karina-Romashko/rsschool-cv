@@ -1,7 +1,7 @@
 # Karina Romashko
-*************************
+
 # Contact info:
-    * **Phone:** +375293461911
-    * **E-mail:** romashkok12@gmail.com
-    * **Discord:** Karina(@Karina-Romashko)
-    * **GitHub:** https://github.com/Karina-Romashko
+* __Phone:__ +375293461911
+* __E-mail:__  romashkok12@gmail.com
+* __Discord:__  Karina(@Karina-Romashko)
+* __GitHub:__  https://github.com/Karina-Romashko
