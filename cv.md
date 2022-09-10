@@ -36,3 +36,7 @@ function multiply(a, b){
 * __TeachMeSkills courses__
     * __Frontend__
 
+# Languages 
+
+__Russian:__ native speaker
+__English:__ C2 (according to https://www.efset.org/)
